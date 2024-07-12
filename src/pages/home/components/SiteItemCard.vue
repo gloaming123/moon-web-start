@@ -40,16 +40,22 @@ defineProps({
   </a>
   <a
     v-else
-    class="site__handle"
+    class="site__handle site__itemborder"
     :class="{ 'site--setting': isSetting, 'hover:bg-$site-hover-c': !isDragging }"
     :href="site.url" :target="target"
     bg="white dark:dark-800"
     w-full inline-flex cursor-pointer items-center gap-x-8 transition-300 p-10
   >
-    <Favicon class="shrink-0" :site="site" :size="36" round />
+    <Favicon class="shrink-0" :site="site" :size="100" round />
     <div>
-      <div text-13 font-600 ellipsis-1>{{ site.name }}</div>
-      <div text="13 $text-c-1" mt-6 ellipsis-1>{{ site.desc ?? site.name }}</div>
+      <div class="nameClass" text-16 font-600 ellipsis-1>{{ site.name }}</div>
+      <div class="nameClass" text="14 $text-c-1" mt-6 ellipsis-4>{{ site.desc ?? site.name }}</div>
     </div>
   </a>
 </template>
+
+<style lang="scss">
+.nameClass {
+  margin: 15px;
+}
+</style>

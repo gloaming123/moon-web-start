@@ -1,1 +1,415 @@
-{"data":[{"id":0,"name":"日常","groupList":[{"id":1,"name":"社交","siteList":[{"id":2,"name":"微博","url":"https://weibo.com/","favicon":""},{"id":3,"name":"知乎","url":"https://www.zhihu.com/","favicon":""},{"id":4,"name":"贴吧","url":"https://tieba.baidu.com/","favicon":""},{"id":5,"name":"豆瓣","url":"https://www.douban.com/","favicon":""},{"id":6,"name":"简书","url":"https://www.jianshu.com/","favicon":""},{"id":7,"name":"虎扑","url":"https://bbs.hupu.com/","favicon":""}]},{"id":8,"name":"购物","siteList":[{"id":9,"name":"淘宝网","url":"https://www.taobao.com/","favicon":""},{"id":10,"name":"京东","url":"https://www.jd.com/","favicon":""},{"id":11,"name":"天猫","url":"https://www.tmall.com/","favicon":""},{"id":12,"name":"苏宁易购","url":"https://www.suning.com/","favicon":""},{"id":13,"name":"唯品会","url":"https://www.vip.com/","favicon":""},{"id":14,"name":"天猫超市","url":"https://chaoshi.tmall.com/","favicon":""}]},{"id":15,"name":"视频","siteList":[{"id":16,"name":"腾讯视频","url":"https://v.qq.com/","favicon":""},{"id":17,"name":"爱奇艺","url":"https://www.iqiyi.com/","favicon":""},{"id":18,"name":"优酷","url":"https://www.youku.com/","favicon":""},{"id":19,"name":"芒果TV","url":"https://www.mgtv.com/","favicon":""},{"id":20,"name":"哔哩哔哩","url":"https://www.bilibili.com/","favicon":""},{"id":21,"name":"AcFun","url":"https://www.acfun.cn/","favicon":""}]},{"id":22,"name":"门户","siteList":[{"id":23,"name":"腾讯网","url":"https://www.qq.com/","favicon":""},{"id":24,"name":"网易","url":"https://www.163.com/","favicon":""},{"id":25,"name":"新浪网","url":"https://www.sina.com.cn/","favicon":""},{"id":26,"name":"搜狐","url":"https://www.sohu.com/","favicon":""},{"id":27,"name":"凤凰网","url":"https://www.ifeng.com/","favicon":""},{"id":28,"name":"央视网","url":"https://www.cctv.com/","favicon":""}]},{"id":29,"name":"资讯","siteList":[{"id":30,"name":"今日头条","url":"https://www.toutiao.com/","favicon":""},{"id":31,"name":"ZAKER","url":"https://www.myzaker.com/","favicon":""},{"id":32,"name":"澎湃新闻","url":"https://www.thepaper.cn/","favicon":""},{"id":33,"name":"环球网","url":"https://www.huanqiu.com/","favicon":""},{"id":34,"name":"虎嗅网","url":"https://www.huxiu.com/","favicon":""},{"id":35,"name":"界面新闻","url":"https://www.jiemian.com/","favicon":""}]},{"id":36,"name":"发现","siteList":[{"id":37,"name":"少数派","url":"https://sspai.com/","favicon":""},{"id":38,"name":"数字尾巴","url":"https://www.dgtle.com/","favicon":""},{"id":39,"name":"爱范儿","url":"https://www.ifanr.com/","favicon":""},{"id":40,"name":"煎蛋","url":"https://jandan.net/","favicon":""},{"id":41,"name":"即刻","url":"https://web.okjike.com/","favicon":""},{"id":42,"name":"V2EX","url":"https://www.v2ex.com/","favicon":""}]},{"id":43,"name":"生活","siteList":[{"id":44,"name":"携程旅行","url":"https://www.ctrip.com/","favicon":""},{"id":45,"name":"飞猪旅行","url":"https://www.fliggy.com/","favicon":""},{"id":46,"name":"美团","url":"https://www.meituan.com/","favicon":""},{"id":47,"name":"大众点评","url":"https://www.dianping.com/","favicon":""},{"id":48,"name":"58同城","url":"https://58.com/","favicon":""},{"id":49,"name":"中国铁路","url":"https://www.12306.cn/index/","favicon":""}]},{"id":50,"name":"便捷","siteList":[{"id":51,"name":"DeepL翻译","url":"https://www.deepl.com/","favicon":""},{"id":52,"name":"百度地图","url":"https://map.baidu.com/","favicon":""},{"id":53,"name":"微信网页版","url":"https://wx.qq.com/","favicon":""},{"id":54,"name":"快递查询","url":"https://www.kuaidi100.com/","favicon":""},{"id":55,"name":"在线转换","url":"https://cn.office-converter.com/","favicon":""},{"id":56,"name":"文件分享","url":"https://wormhole.app/","favicon":""}]}]},{"id":57,"name":"娱乐","groupList":[{"id":58,"name":"发现","siteList":[{"id":59,"name":"36Kr","url":"https://www.36kr.com/","favicon":""},{"id":60,"name":"Solidot","url":"https://www.solidot.org/","favicon":""},{"id":61,"name":"cnBeta","url":"https://www.cnbeta.com/","favicon":""},{"id":62,"name":"天涯社区","url":"https://bbs.tianya.cn/","favicon":""},{"id":63,"name":"Chiphell","url":"https://www.chiphell.com/","favicon":""},{"id":64,"name":"小鸡词典","url":"https://jikipedia.com/","favicon":""}]},{"id":65,"name":"直播","siteList":[{"id":66,"name":"斗鱼","url":"https://www.douyu.com/","favicon":""},{"id":67,"name":"虎牙直播","url":"https://www.huya.com/","favicon":""},{"id":68,"name":"YY直播","url":"https://www.yy.com/","favicon":""},{"id":69,"name":"花椒直播","url":"https://www.huajiao.com/","favicon":""},{"id":70,"name":"映客直播","url":"https://www.inke.cn/","favicon":""},{"id":71,"name":"iPanda","url":"https://www.ipanda.com/","favicon":""}]},{"id":72,"name":"视频","siteList":[{"id":73,"name":"抖音","url":"https://www.douyin.com/","favicon":""},{"id":74,"name":"快手","url":"https://www.kuaishou.com/","favicon":""},{"id":75,"name":"西瓜视频","url":"https://www.ixigua.com/","favicon":""},{"id":76,"name":"电影天堂","url":"https://www.dytt8.net/","favicon":""},{"id":77,"name":"豆瓣电影","url":"https://movie.douban.com/","favicon":""},{"id":78,"name":"YouTube","url":"https://www.youtube.com/","favicon":""}]},{"id":79,"name":"音乐","siteList":[{"id":80,"name":"QQ音乐","url":"https://y.qq.com/","favicon":""},{"id":81,"name":"网易云音乐","url":"https://music.163.com/","favicon":""},{"id":82,"name":"酷狗音乐","url":"https://www.kugou.com/","favicon":""},{"id":83,"name":"咪咕音乐","url":"https://music.migu.cn/","favicon":""},{"id":84,"name":"酷我音乐","url":"https://www.kuwo.cn/","favicon":""},{"id":85,"name":"5sing","url":"http://5sing.kugou.com/","favicon":""}]},{"id":86,"name":"动漫","siteList":[{"id":87,"name":"腾讯动漫","url":"https://ac.qq.com/","favicon":""},{"id":88,"name":"快看漫画","url":"https://www.kuaikanmanhua.com/","favicon":""},{"id":89,"name":"有妖气","url":"https://www.u17.com/","favicon":""},{"id":90,"name":"哔哩哔哩漫画","url":"https://manga.bilibili.com/","favicon":""},{"id":91,"name":"半次元","url":"https://bcy.net/","favicon":""},{"id":92,"name":"看漫画","url":"https://www.kanman.com/","favicon":""}]},{"id":93,"name":"游戏","siteList":[{"id":94,"name":"Steam","url":"https://store.steampowered.com/","favicon":""},{"id":95,"name":"Nintendo","url":"https://www.nintendo.co.jp/","favicon":""},{"id":96,"name":"PlayStation","url":"https://www.playstation.com/","favicon":""},{"id":97,"name":"Xbox","url":"https://www.xbox.com/","favicon":""},{"id":98,"name":"NGA论坛","url":"https://bbs.nga.cn/","favicon":""},{"id":99,"name":"游民星空","url":"https://www.gamersky.com/","favicon":""}]},{"id":100,"name":"体育","siteList":[{"id":101,"name":"腾讯体育","url":"https://sports.qq.com/","favicon":""},{"id":102,"name":"新浪体育","url":"https://sports.sina.com.cn/","favicon":""},{"id":103,"name":"央视体育","url":"https://sports.cctv.com/","favicon":""},{"id":104,"name":"虎扑","url":"https://www.hupu.com/","favicon":""},{"id":105,"name":"直播吧","url":"https://www.zhibo8.cc/","favicon":""},{"id":106,"name":"NBA中国","url":"https://china.nba.com/","favicon":""}]},{"id":107,"name":"文学","siteList":[{"id":108,"name":"起点中文网","url":"https://www.qidian.com/","favicon":""},{"id":109,"name":"纵横中文网","url":"https://www.zongheng.com/","favicon":""},{"id":110,"name":"红袖添香","url":"https://www.hongxiu.com/","favicon":""},{"id":111,"name":"网易云阅读","url":"https://yuedu.163.com/","favicon":""},{"id":112,"name":"豆瓣阅读","url":"https://read.douban.com/","favicon":""},{"id":113,"name":"喜马拉雅","url":"https://www.ximalaya.com/","favicon":""}]}]},{"id":114,"name":"生活","groupList":[{"id":115,"name":"购物","siteList":[{"id":116,"name":"网易严选","url":"https://you.163.com/","favicon":""},{"id":117,"name":"考拉海购","url":"https://www.kaola.com/","favicon":""},{"id":118,"name":"阿里巴巴","url":"https://www.1688.com/","favicon":""},{"id":119,"name":"当当网","url":"https://www.dangdang.com/","favicon":""},{"id":120,"name":"国美在线","url":"https://www.gome.com.cn/","favicon":""},{"id":121,"name":"亚马逊中国","url":"https://www.amazon.cn/","favicon":""}]},{"id":122,"name":"出行","siteList":[{"id":123,"name":"携程旅行","url":"https://www.ctrip.com/","favicon":""},{"id":124,"name":"飞猪旅行","url":"https://www.fliggy.com/","favicon":""},{"id":125,"name":"去哪儿","url":"https://www.qunar.com/","favicon":""},{"id":126,"name":"爱彼迎","url":"https://www.airbnb.cn/","favicon":""},{"id":127,"name":"中国铁路","url":"https://www.12306.cn/index/","favicon":""},{"id":128,"name":"马蜂窝","url":"https://www.mafengwo.cn/","favicon":""}]},{"id":129,"name":"工作","siteList":[{"id":130,"name":"BOSS直聘","url":"https://www.zhipin.com/","favicon":""},{"id":131,"name":"拉勾网","url":"https://www.lagou.com/","favicon":""},{"id":132,"name":"前程无忧","url":"https://www.51job.com/","favicon":""},{"id":133,"name":"智联招聘","url":"https://www.zhaopin.com/","favicon":""},{"id":134,"name":"猎聘","url":"https://www.liepin.com/","favicon":""},{"id":135,"name":"LinkedIn","url":"https://www.linkedin.com/","favicon":""}]},{"id":136,"name":"美食","siteList":[{"id":137,"name":"下厨房","url":"https://www.xiachufang.com/","favicon":""},{"id":138,"name":"美食天下","url":"https://www.meishichina.com/","favicon":""},{"id":139,"name":"美食杰","url":"https://www.meishij.net/","favicon":""},{"id":140,"name":"豆果美食","url":"https://www.douguo.com/","favicon":""},{"id":141,"name":"央视美食","url":"https://food.cctv.com/","favicon":""},{"id":142,"name":"三菜一汤","url":"https://www.3c1t.com/","favicon":""}]},{"id":143,"name":"健康","siteList":[{"id":144,"name":"丁香医生","url":"https://dxy.com/","favicon":""},{"id":145,"name":"默沙东","url":"https://www.msdmanuals.cn/","favicon":""},{"id":146,"name":"丁香园","url":"https://portal.dxy.cn/","favicon":""},{"id":147,"name":"用药助手","url":"https://drugs.dxy.cn/","favicon":""},{"id":148,"name":"Cochrane","url":"https://www.cochrane.org/zh-hans/evidence","favicon":""},{"id":149,"name":"国家药品查询","url":"https://www.nmpa.gov.cn/datasearch/","favicon":""}]},{"id":150,"name":"汽车","siteList":[{"id":151,"name":"汽车之家","url":"https://www.autohome.com.cn/","favicon":""},{"id":152,"name":"易车网","url":"https://www.yiche.com/","favicon":""},{"id":153,"name":"懂车帝","url":"https://www.dongchedi.com/","favicon":""},{"id":154,"name":"太平洋汽车","url":"https://www.pcauto.com.cn/","favicon":""},{"id":155,"name":"爱卡汽车","url":"https://www.xcar.com.cn/","favicon":""},{"id":156,"name":"网易汽车","url":"https://auto.163.com/","favicon":""}]},{"id":157,"name":"财经","siteList":[{"id":158,"name":"财新网","url":"https://www.caixin.com/","favicon":""},{"id":159,"name":"格隆汇","url":"https://www.gelonghui.com/","favicon":""},{"id":160,"name":"华尔街日报","url":"https://cn.wsj.com/","favicon":""},{"id":161,"name":"雪球网","url":"https://xueqiu.com/","favicon":""},{"id":162,"name":"金十数据","url":"https://www.jin10.com/","favicon":""},{"id":163,"name":"雅虎财经","url":"https://hk.finance.yahoo.com/","favicon":""}]},{"id":164,"name":"便民","siteList":[{"id":165,"name":"天气预报","url":"https://www.windy.com/","favicon":""},{"id":166,"name":"工商查询","url":"https://www.gsxt.gov.cn/","favicon":""},{"id":167,"name":"电话查询","url":"https://www.114best.com/","favicon":""},{"id":168,"name":"网速测试","url":"https://www.speedtest.net/","favicon":""},{"id":169,"name":"卫星地图","url":"https://zoom.earth/","favicon":""},{"id":170,"name":"台风路径","url":"https://typhoon.slt.zj.gov.cn/","favicon":""}]}]},{"id":171,"name":"学习","groupList":[{"id":172,"name":"网课","siteList":[{"id":173,"name":"网易公开课","url":"https://open.163.com/","favicon":""},{"id":174,"name":"网易云课堂","url":"https://study.163.com/","favicon":""},{"id":175,"name":"爱课程","url":"https://www.icourses.cn/","favicon":""},{"id":176,"name":"腾讯课堂","url":"https://ke.qq.com/","favicon":""},{"id":177,"name":"慕课网","url":"https://www.imooc.com/","favicon":""},{"id":178,"name":"中国大学MOOC","url":"https://www.icourse163.org/","favicon":""}]},{"id":179,"name":"文库","siteList":[{"id":180,"name":"百度文库","url":"https://wenku.baidu.com/","favicon":""},{"id":181,"name":"360文库","url":"https://wenku.so.com/","favicon":""},{"id":182,"name":"道客巴巴","url":"https://www.doc88.com/","favicon":""},{"id":183,"name":"豆丁网","url":"https://www.docin.com/","favicon":""},{"id":184,"name":"合同范文","url":"https://cont.12315.cn/","favicon":""},{"id":185,"name":"裁判文书","url":"https://wenshu.court.gov.cn/","favicon":""}]},{"id":186,"name":"学术","siteList":[{"id":187,"name":"百度学术","url":"https://xueshu.baidu.com/","favicon":""},{"id":188,"name":"谷歌学术","url":"https://scholar.google.com/","favicon":""},{"id":189,"name":"中国知网","url":"https://www.cnki.net/","favicon":""},{"id":190,"name":"万方数据","url":"https://www.wanfangdata.com.cn/","favicon":""},{"id":191,"name":"维普网","url":"http://www.cqvip.com/","favicon":""},{"id":192,"name":"搜狗学术","url":"https://scholar.sogou.com/","favicon":""}]},{"id":193,"name":"词典","siteList":[{"id":194,"name":"有道词典","url":"https://www.youdao.com/","favicon":""},{"id":195,"name":"剑桥词典","url":"https://dictionary.cambridge.org/zhs/","favicon":""},{"id":196,"name":"柯林斯词典","url":"https://www.collinsdictionary.com/zh/","favicon":""},{"id":197,"name":"汉语词典","url":"https://www.zdic.net/","favicon":""},{"id":198,"name":"维基词典","url":"https://zh.wiktionary.org/","favicon":""},{"id":199,"name":"中日词典","url":"https://cjjc.weblio.jp/","favicon":""}]},{"id":200,"name":"资讯","siteList":[{"id":201,"name":"腾讯教育","url":"https://new.qq.com/ch/edu/","favicon":""},{"id":202,"name":"搜狐教育","url":"https://learning.sohu.com/","favicon":""},{"id":203,"name":"网易教育","url":"https://edu.163.com/","favicon":""},{"id":204,"name":"中国教育在线","url":"https://www.eol.cn/","favicon":""},{"id":205,"name":"沪江英语","url":"https://www.hjenglish.com/","favicon":""},{"id":206,"name":"无忧考网","url":"https://www.51test.net/","favicon":""}]},{"id":207,"name":"模考","siteList":[{"id":208,"name":"考满分","url":"https://www.kmf.com/","favicon":""},{"id":209,"name":"会计题库","url":"https://www.chinaacc.com/tiku/","favicon":""},{"id":210,"name":"LeetCode","url":"https://leetcode-cn.com/","favicon":""},{"id":211,"name":"打字练习","url":"https://www.typing.com/student","favicon":""},{"id":212,"name":"驾校一点通","url":"https://www.jxedt.com/","favicon":""},{"id":213,"name":"驾考宝典","url":"https://www.jiakaobaodian.com/","favicon":""}]},{"id":214,"name":"便捷","siteList":[{"id":215,"name":"多邻国","url":"https://www.duolingo.cn/","favicon":""},{"id":216,"name":"幕布","url":"https://mubu.com/","favicon":""},{"id":217,"name":"石墨文档","url":"https://shimo.im/","favicon":""},{"id":218,"name":"损坏文件生成","url":"https://www.fakefilegenerator.com/generate-file.php","favicon":""},{"id":219,"name":"内容对比","url":"https://www.diffchecker.com/","favicon":""},{"id":220,"name":"WolframAlpha","url":"https://www.wolframalpha.com/","favicon":""}]},{"id":221,"name":"查询","siteList":[{"id":222,"name":"学信网","url":"https://www.chsi.com.cn/","favicon":""},{"id":223,"name":"普通话水平","url":"https://www.cltt.org/","favicon":""},{"id":224,"name":"考试报名","url":"https://www.neea.edu.cn/html1/folder/1607/298-1.htm","favicon":""},{"id":225,"name":"成绩查询","url":"https://cjcx.neea.edu.cn/","favicon":""},{"id":226,"name":"证书查询","url":"https://zscx.neea.edu.cn/","favicon":""},{"id":227,"name":"托福网考","url":"https://toefl.neea.cn/","favicon":""}]}]},{"id":228,"name":"开发","groupList":[{"id":229,"name":"社区","siteList":[{"id":230,"name":"StackOverflow","url":"https://stackoverflow.com/","favicon":""},{"id":231,"name":"稀土掘金","url":"https://juejin.cn/","favicon":""},{"id":232,"name":"SegmentFault","url":"https://segmentfault.com/","favicon":""},{"id":233,"name":"V2EX","url":"https://www.v2ex.com/","favicon":""},{"id":234,"name":"ProductHunt","url":"https://www.producthunt.com/","favicon":""},{"id":235,"name":"HackerNews","url":"https://news.ycombinator.com/","favicon":""}]},{"id":236,"name":"平台","siteList":[{"id":237,"name":"GitHub","url":"https://github.com/","favicon":""},{"id":238,"name":"Gitee","url":"https://gitee.com/","favicon":""},{"id":239,"name":"GitLab","url":"https://gitlab.com/","favicon":""},{"id":240,"name":"Coding","url":"https://coding.net/","favicon":""},{"id":241,"name":"CodePen","url":"https://codepen.io/","favicon":""},{"id":242,"name":"Notion","url":"https://www.notion.so/","favicon":""}]},{"id":243,"name":"云计算","siteList":[{"id":244,"name":"阿里云","url":"https://www.aliyun.com/","favicon":""},{"id":245,"name":"腾讯云","url":"https://cloud.tencent.com/","favicon":""},{"id":246,"name":"AWS","url":"https://aws.amazon.com/","favicon":""},{"id":247,"name":"GoogleCloud","url":"https://cloud.google.com/","favicon":""},{"id":248,"name":"Azure","url":"https://azure.microsoft.com/","favicon":""},{"id":249,"name":"Cloudflare","url":"https://www.cloudflare.com/","favicon":""}]},{"id":250,"name":"工具","siteList":[{"id":251,"name":"IPIP.NET","url":"https://www.ipip.net/","favicon":""},{"id":252,"name":"NameBeta","url":"https://namebeta.com/","favicon":""},{"id":253,"name":"VirusTotal","url":"https://www.virustotal.com/","favicon":""},{"id":254,"name":"RegExr","url":"https://regexr.com/","favicon":""},{"id":255,"name":"ProcessOn","url":"https://processon.com/","favicon":""},{"id":256,"name":"Can I use","url":"https://caniuse.com/","favicon":""}]},{"id":257,"name":"分析","siteList":[{"id":258,"name":"Ping.pe","url":"https://ping.pe/","favicon":""},{"id":259,"name":"17CE","url":"https://17ce.com/","favicon":""},{"id":260,"name":"SimilarWeb","url":"https://www.similarweb.com/","favicon":""},{"id":261,"name":"SimilarSites","url":"https://www.similarsites.com/","favicon":""},{"id":262,"name":"PageSpeed","url":"https://pagespeed.web.dev/","favicon":""},{"id":263,"name":"WebPageTest","url":"https://webpagetest.org/","favicon":""}]},{"id":264,"name":"文档","siteList":[{"id":265,"name":"MDN","url":"https://developer.mozilla.org/","favicon":""},{"id":266,"name":"Android文档","url":"https://developer.android.com/docs","favicon":""},{"id":267,"name":"Apple文档","url":"https://developer.apple.com/cn/documentation/","favicon":""},{"id":268,"name":"W3school","url":"https://www.w3school.com.cn/","favicon":""},{"id":269,"name":"jQuery中文","url":"https://www.jquery123.com/","favicon":""},{"id":270,"name":"Vue.js","url":"https://cn.vuejs.org/","favicon":""}]},{"id":271,"name":"博文","siteList":[{"id":272,"name":"阮一峰博客","url":"https://www.ruanyifeng.com/blog/","favicon":""},{"id":273,"name":"王垠博客","url":"https://www.yinwang.org/","favicon":""},{"id":274,"name":"张鑫旭博客","url":"https://www.zhangxinxu.com/","favicon":""},{"id":275,"name":"美团技术团队","url":"https://tech.meituan.com/","favicon":""},{"id":276,"name":"凹凸实验室","url":"https://aotu.io/","favicon":""},{"id":277,"name":"CSS-Tricks","url":"https://css-tricks.com/","favicon":""}]},{"id":278,"name":"资源","siteList":[{"id":279,"name":"npm","url":"https://www.npmjs.com/","favicon":""},{"id":280,"name":"Docker Hub","url":"https://hub.docker.com/","favicon":""},{"id":281,"name":"Homebrew","url":"https://formulae.brew.sh/","favicon":""},{"id":282,"name":"异次元","url":"https://www.iplaysoft.com/","favicon":""},{"id":283,"name":"Internet Archive","url":"https://archive.org/","favicon":""},{"id":284,"name":"免費資源網路社群","url":"https://free.com.tw/","favicon":""}]}]},{"id":285,"name":"设计","groupList":[{"id":286,"name":"灵感","siteList":[{"id":287,"name":"Dribbble","url":"https://dribbble.com/","favicon":""},{"id":288,"name":"Behance","url":"https://www.behance.net/","favicon":""},{"id":289,"name":"站酷","url":"https://www.zcool.com.cn/","favicon":""},{"id":290,"name":"UICN","url":"https://www.ui.cn/","favicon":""},{"id":291,"name":"Land-book","url":"https://land-book.com/","favicon":""},{"id":292,"name":"Muzli","url":"https://muz.li/","favicon":""}]},{"id":293,"name":"图库","siteList":[{"id":294,"name":"Unsplash","url":"https://unsplash.com/","favicon":""},{"id":295,"name":"Pinterest","url":"https://www.pinterest.com/","favicon":""},{"id":296,"name":"Pixabay","url":"https://pixabay.com/","favicon":""},{"id":297,"name":"花瓣","url":"https://huaban.com/","favicon":""},{"id":298,"name":"500px","url":"https://500px.com/","favicon":""},{"id":299,"name":"SplitShire","url":"https://www.splitshire.com/","favicon":""}]},{"id":300,"name":"素材","siteList":[{"id":301,"name":"Freepik","url":"https://www.freepik.com/","favicon":""},{"id":302,"name":"千图网","url":"https://www.58pic.com/","favicon":""},{"id":303,"name":"昵图网","url":"https://www.nipic.com/","favicon":""},{"id":304,"name":"Pexels","url":"https://www.pexels.com/","favicon":""},{"id":305,"name":"Shutterstock","url":"https://www.shutterstock.com/","favicon":""},{"id":306,"name":"Themeforest","url":"https://themeforest.net/","favicon":""}]},{"id":307,"name":"图标","siteList":[{"id":308,"name":"Flaticon","url":"https://www.flaticon.com/","favicon":""},{"id":309,"name":"iconfont","url":"https://www.iconfont.cn/","favicon":""},{"id":310,"name":"Iconfinder","url":"https://www.iconfinder.com/","favicon":""},{"id":311,"name":"NounProject","url":"https://thenounproject.com/","favicon":""},{"id":312,"name":"Icons8","url":"https://icons8.com/","favicon":""},{"id":313,"name":"CSS Icons","url":"https://css.gg/","favicon":""}]},{"id":314,"name":"颜色","siteList":[{"id":315,"name":"Adobe Color","url":"https://color.adobe.com/","favicon":""},{"id":316,"name":"ColorHunt","url":"https://colorhunt.co/","favicon":""},{"id":317,"name":"Coolors","url":"https://coolors.co/","favicon":""},{"id":318,"name":"WebGradients","url":"https://webgradients.com/","favicon":""},{"id":319,"name":"Colllor","url":"http://colllor.com/","favicon":""},{"id":320,"name":"ColourCode","url":"https://www.toptal.com/designers/colourcode","favicon":""}]},{"id":321,"name":"工具","siteList":[{"id":322,"name":"在线PS","url":"https://ps.gaoding.com/","favicon":""},{"id":323,"name":"格式转换","url":"https://cloudconvert.com/","favicon":""},{"id":324,"name":"TinyPNG","url":"https://tinypng.com/","favicon":""},{"id":325,"name":"求字体","url":"https://www.qiuziti.com/","favicon":""},{"id":326,"name":"矢量图转换","url":"https://vectormagic.com/","favicon":""},{"id":327,"name":"贝塞尔曲线练习","url":"https://bezier.method.ac/","favicon":""}]},{"id":328,"name":"规范","siteList":[{"id":329,"name":"Android","url":"https://developer.android.com/design","favicon":""},{"id":330,"name":"Apple","url":"https://developer.apple.com/design/","favicon":""},{"id":331,"name":"Google","url":"https://design.google/","favicon":""},{"id":332,"name":"Microsoft","url":"https://www.microsoft.com/design","favicon":""},{"id":333,"name":"Material","url":"https://material.io/","favicon":""},{"id":334,"name":"Ant Design","url":"https://ant.design/","favicon":""}]},{"id":335,"name":"教程","siteList":[{"id":336,"name":"优设网","url":"https://www.uisdc.com/","favicon":""},{"id":337,"name":"站酷学习","url":"https://www.gogoup.com/","favicon":""},{"id":338,"name":"优优教程","url":"https://uiiiuiii.com/","favicon":""},{"id":339,"name":"虎课网","url":"https://huke88.com/","favicon":""},{"id":340,"name":"TUTS+","url":"https://design.tutsplus.com/","favicon":""},{"id":341,"name":"Medium","url":"https://medium.design/","favicon":""}]}]}],"settings":{"theme":"MoonWhite","search":"Bing","iconStyle":"Plain"}}
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "日常",
+            "groupList": [
+                {
+                    "id": 1,
+                    "name": "小报童每日精选",
+                    "siteList": [
+                        {
+                            "id": 2,
+                            "name": "纯银的 60 篇产品分析 · 第七季连载",
+                            "url": "https://xiaobot.net/p/pmdogs7?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "· 第一季 39 元：xiaobot.net\r\n· 第二季 39 元：xiaobot.net\r\n· 第三季 59 元：xiaobot.net\r\n· 第四季 59 元：xiaobot.net\r\n· 第五季 59 元：xiaobot.net\r\n· 第六季 59 元：xiaobot.net",
+                            "favicon": "https://static.xiaobot.net/paper/2024-03-07/8632/b766a34bbeb37999ad49e7b2e6d4ce6e.jpeg"
+                        },
+                        {
+                            "id": 3,
+                            "name": "独立开发营销获客增长手册",
+                            "url": "https://xiaobot.net/p/devgrowth?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "期望帮助独立开发个体完成初期增长和商业验证\r\n掌握市场营销，流量获取，获客增长的入门方法\r\n收获1000位狂热用户，掌握独立出海奥秘\r\n15节小课，帮助大家突破只会开发不会运营的增长困境\r\n专栏持续更新实战案例\r\n我的微信和推特：Yangyi_xxxx",
+                            "favicon": "https://static.xiaobot.net/paper/2024-05-15/45150/057f26f82da92e1f473bcfbf4a00d0ba.png"
+                        },
+                        {
+                            "id": 4,
+                            "name": "自由集",
+                            "url": "https://xiaobot.net/p/Riverontard?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "@麦麦小卷\r\n\r\n六年政治经济学学习者，八年金融行业从业者，十五年互联网分享者。\r\n\r\n希望在这里能够营造一个更诚实、更良性的互动空间。\r\n\r\n私人性是我的一切。",
+                            "favicon": "https://static.xiaobot.net/paper/2023-10-16/371810/a710fac07580c34b84dc9701d4bafd4c.jpeg"
+                        },
+                        {
+                            "id": 5,
+                            "name": "把自己产品化：一人企业 | 溜达",
+                            "url": "https://xiaobot.net/p/Liudaboxer/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "我是溜达\r\n“把自己产品化”东方发起人和活动家\r\n人工智能时代最佳生存法则：把自己产品化\r\n过上你喜欢、你擅长、社会需要且愿意为之付费的生活\r\n把自己产品化是有模式的,你无需从头开始\r\n把自己产品化是很有趣的,你是你生命的主角和设计师\r\n\r\n\r\n本专栏是国内第一个“把自己产品化”通识专栏\r\n1 介绍“把自己产品化”最少必要知识和实操方法论\r\n2 把自己产品化：一人企业 新物种对谈\r\n3 国外把自己产品化一人企业最新资讯、案例\r\n4 一手教学实战问答集\r\n5 专属交流群（购买后添加我微信:Liudaboxer）\r\n6 加入合伙人计划",
+                            "favicon": "https://static.xiaobot.net/paper/2023-09-01/61012/99a8e16ddd878e928d8778489eb0284a.jpeg"
+                        },
+                        {
+                            "id": 6,
+                            "name": "管它三七二十一",
+                            "url": "https://xiaobot.net/p/3721/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "这是一份来自五位教育创业者的行动笔记。\r\n大嘴 | 晶琳 | 范范 | 乔安 | Tim\r\n\r\n赶紧购买「 管它三七二十一」教育行动者笔记吧！你将获得来自教育行动者的第一手洞察。购买专栏可享受下列权益：\r\n\r\n1. 专题长文：作者们在不同身份（家长/教育工作者/教育创业者）下的行动及反思\r\n2. 三七问：行动者之间的访谈对话，透过对谈者的视角对作者的观点产生进一步洞察\r\n3. 读者交流群：如果你有问题想与作者/其他读者探讨，交流群是一个多元且安全的交流空间\r\n\r\n限时早鸟价：前100名订阅者 142元/三个月",
+                            "favicon": "https://static.xiaobot.net/paper/2023-12-17/110159/3414aad019ca3c5c066de413e1c8240b.jpeg"
+                        },
+                        {
+                            "id": 7,
+                            "name": "简易设计-一套非常好用的产品设计方法",
+                            "url": "https://xiaobot.net/p/EasyDesign/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "嗨，我是Kevin，PMTalk社区发起人，港理工硕士\r\n8年产品总监，曾在腾讯、喜马拉雅、中国移动咪咕音乐做产品经理，再到创业。\r\n\r\n我深知产品设计的困难，我一直想沉淀一套产品设计方法，所以，从2020年开始撰写这本产品设计方法论，《简易设计》。\r\n\r\n经过了若干场线下课验证，不仅在产品上还可以用在创业里。\r\n\r\n这套设计包含5个具体步骤\r\n\r\n1.需求调研与用户研究\r\n\r\n2.竞品调研\r\n\r\n3.产品框架的减法\r\n\r\n3.单元模块的功能组合\r\n\r\n4.微创新产品设计\r\n\r\n5.迭代一套新的产品框架\r\n\r\n总共超过23万字，包含8个章节，一定物超所值！",
+                            "favicon": "https://static.xiaobot.net/paper/2024-01-07/9944/5cf5d1cd7cfb850ecbec733133691b86.jpeg"
+                        },
+                        {
+                            "id": 8,
+                            "name": "写作训练手册",
+                            "url": "https://xiaobot.net/p/refuse996/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "我从2017年开始持续写作，文章曾被腾讯科技、钛媒体等多家知名媒体转载，全网累计阅读超过3000w，针对王兴、宿华、黄峥等互联网大佬个人经历写出二十多篇万字长文。写作让我有了更多独立思考的机会，也帮助我结识了不少朋友。\r\n\r\n本专栏也许不是讲写作最好的，但一定是最真诚、最直接、最讲实话的。我把自己写长文的经验以及对于思考、读书、提高效率的心得都加入到了专栏，希望对你有所启发。\r\n\r\n每周更新4篇，共30余篇文章，近4万字，欢迎添加作者微信【lc1005287740】\r\n\r\n99元（永久买断），已恢复原价！",
+                            "favicon": "https://static.xiaobot.net/paper/2023-09-18/20265/3b1e6c1241677d9e91d9f1ce41f06492.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "我想开了：自我疗愈指南",
+                            "url": "https://xiaobot.net/p/woxiangkaile/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "hi，我是七天，出版过两本书，登过TEDX，写作7年30w粉丝，写了100w字。\r\n写作是了解自我的最短路径。\r\n\r\n作为作者，我会写大城市里的自我觉察，自我接纳，向内建立坚固内核\r\n作为社群主理人，我会写如何提供情绪价值，如何发起活动，向外链接你喜欢的人\r\n作为持续写作7年的斜杠青年，我会写如何持续输出，保持能量\r\n\r\n订阅后你可获得：\r\n【内容】不少于30篇的原创专栏，从能量提升/自我觉察/主动表达角度分享，购买后均可加入专栏读者群！\r\n\r\n被小报童官方推荐啦！本月福利：\r\n99/季度，限时199/年（原价299/年）",
+                            "favicon": "https://static.xiaobot.net/paper/2023-09-04/44358/a76bf36b7d98e40b5ee8c020b3faf949.jpeg"
+                        },
+                        {
+                            "id": 10,
+                            "name": "史官的游戏人生—第1季",
+                            "url": "https://xiaobot.net/p/sg202301/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "微博：寝取的史官，从业17年的资深游戏开发者，创业11年的某地下游戏加工窝点联合创始人。\r\n\r\n本专栏从一个游戏设计者的视角观察和理解生活，也从生活中感受和领悟游戏的精神内核。每周至少会更新一篇1500字左右文章，至少更新50篇。\r\n\r\n关于专栏文章题材可在本专栏留言，或在寝取的史官微博置顶处留言。",
+                            "favicon": "https://static.xiaobot.net/paper/2023-07-10/114206/22b624b90cce22f8cf7e306e82e430c4.png"
+                        },
+                        {
+                            "id": 11,
+                            "name": "营销第一课",
+                            "url": "https://xiaobot.net/p/QSH2040/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "对于把商业、生意、挣钱当第一爱好的人来说，这是一个卖东西的世界...\r\n\r\n个人卖的是时间，企业卖的是产品和服务。\r\n\r\n个人关心的是努力——尽量提高专业技能和勤奋度，为了尽可能的把时间卖出高单价；\r\n\r\n企业关心的是模式——一个能通过购买别人的时间，来为自己创造产品和服务售卖，并且能持续盈利的模式。\r\n\r\n过去我们服务很多公司，古茗、元气、乐刻、鲁花...身处一个研究“卖东西”的行业。\r\n\r\n做这行越久，越会觉得，营销，本质是一种生存技能——毕竟大家都是出来挣钱的。\r\n\r\n欢迎你免费查阅第一章，一起来参与这场“出来卖”的游戏。",
+                            "favicon": "https://static.xiaobot.net/paper/2023-07-10/27535/eff9e8fe802b23128dec5b38c8045a7a.jpeg"
+                        },
+                        {
+                            "id": 12,
+                            "name": "产品经理的技术课（37讲已完结）",
+                            "url": "https://xiaobot.net/p/pm_course/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "给产品经理讲技术，普及技术基础知识。结合具体案例循序渐进地讲解产品经理需要学习的技术知识。\r\n个人背景：前百度前端开发，现腾讯前端开发，撰写技术科普公众号3年+，全网累计粉丝5万+。",
+                            "favicon": "https://static.xiaobot.net/paper/2023-09-02/88221/f602a5e6c8a90d0c937815ee341fb77c.jpeg"
+                        },
+                        {
+                            "id": 13,
+                            "name": "李奕在哪儿｜第二季",
+                            "url": "https://xiaobot.net/p/whereisyi2/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "👩🏻‍🌾 \r\n2016-2021麦肯锡咨询师，洛杉矶、北京、内罗毕办公室\r\n2021至今辞职创业，肯尼亚农业科技公司FarmWorks\r\n🍀\r\n第二季了，让我们一起玩人生这场游戏！\r\n100篇非洲创业故事，职场实战干货，人生底层信念和关键认知。\r\n✨\r\n已完结专栏三册：\r\n【第一季100篇】：xiaobot.net\r\n【心态大师】：xiaobot.net\r\n【你的第一本人际关系指南】：xiaobot.net",
+                            "favicon": "https://static.xiaobot.net/paper/2023-04-10/35190/a180def8e7a09ea080b4d243965cdf00.jpeg"
+                        },
+                        {
+                            "id": 14,
+                            "name": "从0开始的小红书搞钱指南",
+                            "url": "https://xiaobot.net/p/redbook0-1/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "独一无二的小红书搞钱指南！\r\n手把手教你解决新人在从0到1的阶段，最容易卡住的那些问题：\r\n\r\n1. 了解小红书的内容玩法、变现玩法，打开格局\r\n2. 找准账号定位，走稳账号的第一步\r\n3. 高效地规划内容策略，在第一个月内能有持续的产出，完成初始化\r\n\r\n本专栏包括【认知篇】、【赚钱篇】、【定位篇】、【爆款篇】4大核心模块，至少20篇专题文章，和丰富的真实案例，帮你快速上手实操，开启你的小红书经营之旅！\r\n\r\n还有专属读者群，加入即可领取一份超全的小红书变现地图，包含28种变现手段（微信号请在订阅后在【1.1篇】查看💗）",
+                            "favicon": "https://static.xiaobot.net/paper/2023-05-17/9934/e683faea3261198c5e5b56bf00f06449.png"
+                        },
+                        {
+                            "id": 15,
+                            "name": "小报童制作及运营指南",
+                            "url": "https://xiaobot.net/p/xbot/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "💁🏻‍♀️适合人群\r\n- 有专长，想通过知识变现的人\r\n- 有表达欲，想用文字吸引同路人\r\n- 对制作和运营付费内容有好奇的人\r\n\r\n👩🏻‍🏫专栏作者：乌素\r\n- B站4个品类top1课程背后的女人\r\n- 《小红书冷启动SOP》专栏作者\r\n- 小报童累计订阅用户2000+\r\n\r\n📌内容介绍\r\n- 专栏分为定位、产出、售卖、运营四章\r\n- 共25篇内容，已更新完毕，目录见置顶",
+                            "favicon": "https://static.xiaobot.net/paper/2023-08-15/80250/e58d14d01fcb9af2d02a9f6b5a31dfc8.jpeg"
+                        },
+                        {
+                            "id": 16,
+                            "name": "简明数据库小课「已完结，放心买」",
+                            "url": "https://xiaobot.net/p/litedb/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "面向产品经理的数据库小课，通过案例、原型等方式，从产品经理的视角讲解数据库知识。覆盖数据库概念、实操、案例、数据分析、如何使用AI工具、数据仓库、BI和PaaS等全方位的知识。力求简单、易懂，帮助产品同学更好地理解数据库和业务对象之间的关系。",
+                            "favicon": "https://static.xiaobot.net/paper/2023-03-14/217558/bd97ad21b46431a256003c7f1167fd71.png"
+                        },
+                        {
+                            "id": 17,
+                            "name": "AI时代个性化知识管理指南",
+                            "url": "https://xiaobot.net/p/WangJiao/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "本专栏为王佼and成甲联合发起\r\n\r\n👩王佼——专栏内容主理人\r\n万物皆可盘社群CEO、知识的管理研讨会发起人\r\n负责本专栏主要内容输出、以及不断将自己从各位大咖处学到的新知分享给大家\r\n👱‍♂️成甲——专栏弹幕主理人\r\n《好好学习》《好好思考》作者\r\n负责在专栏中随机交流、分享自己的实践、以及和王佼对谈\r\n\r\nAI时代，带来了学习方式、知识管理方式的变革：\r\n在这个信息爆炸的时代，如何建立自己的知识管理系统？如何利用好AI来支持我们解决工作和生活中的问题？我们可以如何和AI协同合作？我们希望通过【AI时代个性化知识管理指南】这个专栏，把在这个领域的思考、实践、和学习收获，逐步分享给大家，支持更多人，融入学习范式革命。\r\n\r\n本专栏定价199 目前为早期用户感恩价179\r\n每满100人上调10元\r\n本专栏为一次性付费制，购买后终身阅读。\r\n更多权益请看置顶文章",
+                            "favicon": "https://static.xiaobot.net/paper/2023-05-24/9846/d037b9910941e56ea54b95c3cfaccff1.jpeg"
+                        },
+                        {
+                            "id": 18,
+                            "name": "Stella英语学习终极指南",
+                            "url": "https://xiaobot.net/p/stellaphd/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "👉这个专栏我会总结过去我所有在公众号以及知乎等平台发表的关于英语学习的文章，力求给大家一个最简洁且最全面的「终极英语学习指南」。\r\n\r\n🌟我所有的英语学习法都是个人经验的总结，是你在别处看不到的，它最大的优点在于可操作性强、好落地，学了就能用。\r\n\r\n🔥额外福利，每位订阅专栏的朋友都会获赠一套「外刊精读课程」以及「英语听力口语训练课程」，帮助大家完成从理论到实践的跨越。两份课程都是为期一个月的训练量，大家可以按自己的节奏去完成。\r\n\r\n👉原价199，限时179元（永久买断），内含价值249+课程以及海量英语学习资源！",
+                            "favicon": "https://static.xiaobot.net/paper/2023-06-02/44966/44b029ef9337a231ef0567f16784cef5.jpeg"
+                        },
+                        {
+                            "id": 19,
+                            "name": "富于理性",
+                            "url": "https://xiaobot.net/p/wisdom/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "💡 学习顶级实践者的智慧，促成你想要的改变\r\n🤖️ 分享 AI 妙用，助力学习、创作和个人成长\r\n\r\n至少 27 篇专属文章，每周一篇，10/31 之前更新完毕",
+                            "favicon": "https://static.xiaobot.net/paper/2023-04-23/9405/c07224adab77341e639673735fad07c3.jpeg"
+                        },
+                        {
+                            "id": 20,
+                            "name": "培训师入门与实战手册",
+                            "url": "https://xiaobot.net/p/weichong666/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "📍【专栏定位】\r\n沉淀一线培训实战经验\r\n\r\n📖【专栏内容】\r\n已更新35篇，详情请看专栏提纲，会持续更新！\r\n\r\n🎯【适合用户】\r\n想探索可能性，对培训感兴趣的人\r\n想精进培训能力的培训助理/培训师\r\n\r\n🎁【订阅福利】\r\n❶ 限时特惠，满300人涨至98元！\r\n❷ 领取电子版《培训师实战手册》\r\n❸ 凭订单截图加读者群，微信【zwc531363287】\r\n\r\n✨ 《职场跃迁笔记》专栏：u.ideart.cc\r\n✨ 《AI+PPT革新工作方式》网课：weike.fm",
+                            "favicon": "https://static.xiaobot.net/paper/2023-05-06/271012/7f716f9b84298b6063b49f46d938ad81.jpeg"
+                        },
+                        {
+                            "id": 21,
+                            "name": "播客小捕手",
+                            "url": "https://xiaobot.net/p/xiaobushous1?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "如果你跟我一样，在听英文播客的时候，常常遇到听不懂，听着累，甚至不知道听什么的问题。那么播客小捕手应该能帮到你。\r\n\r\n购买后，你将获得三个播客数据库访问权，分别包含 Huberman Lab、The Knowledge Project 和 Invest Like The Best 三挡优质播客的 AI 翻译内容（主题涵盖健康、领导力、决策以及投资）。以及 51 篇精华节目的人工总结。目前本专栏已经完成所有内容的更新，可放心购买。",
+                            "favicon": "https://static.xiaobot.net/paper/2023-01-08/1112/b2ba9a08b7705b33f55496ba92d3f202.png"
+                        },
+                        {
+                            "id": 22,
+                            "name": "尼佬的小旅行",
+                            "url": "https://xiaobot.net/p/byebyeplanet/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "世界主义 人文旅行",
+                            "favicon": "https://static.xiaobot.net/paper/2023-02-21/111781/7e22ef2ba133d6a9396bef1d6f7b4cdf.jpeg"
+                        },
+                        {
+                            "id": 23,
+                            "name": "产品经理学技术",
+                            "url": "https://xiaobot.net/p/Pmtech?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "用通俗易懂的方式让产品经理学会工作中的技术知识",
+                            "favicon": "https://static.xiaobot.net/paper/2023-01-04/88624/b13bb9c3ce16c82ca5d5cd8198f9a702.jpeg"
+                        },
+                        {
+                            "id": 24,
+                            "name": "茶蛋干货铺",
+                            "url": "https://xiaobot.net/p/Chadandrygoods/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "一个茶蛋团队沉淀多年的职场经验和行业信息的干货铺；\r\n一个反焦虑和成功学，打工人自我成长的乌托邦；\r\n一个实现很多爱、很多钱、有事做有期待的生活的方法论集散地；",
+                            "favicon": "https://static.xiaobot.net/paper/2023-03-02/198843/34afe787dfd2e36eabfc9ce57bb6fb50.jpeg"
+                        },
+                        {
+                            "id": 25,
+                            "name": "SD+Midjourney绘画百科",
+                            "url": "https://xiaobot.net/p/stablediffusion/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "1. 计划更新1000篇以上内容\r\n2. Stable Diffusion&amp;amp;amp;Midjourney从新手到高手都能用得上的百科全书；\r\n3. [StableDiffusion]预计建立超过200个模型库：从主模型到LoRA/LyCORIS，所有模型都有百度盘下载链接，因此对于测评过的模型，可以当成离线版C站（civitai）使用\r\n4. [Midjourney]预计收录和解析超过1000个Prompt\r\n5. 一个巨大的壁纸库",
+                            "favicon": "https://static.xiaobot.net/paper/2023-04-23/84/60fa4ac91d01145ca4e3d8f5dc4593d2.png"
+                        },
+                        {
+                            "id": 26,
+                            "name": "细细说运营",
+                            "url": "https://xiaobot.net/p/qinxixi001/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "一个普通96年大专生女孩，通过“运营”这件事，实现5年月收入从3k→30k（主副业并行）→18k（自由职业），同时在26岁开启只工作不上班的生活。\r\n\r\n在这本小册，分享这些年我沉淀下来可复制的【运营知识】、【实践过程】，助你往前一步。\r\n\r\n本册专注研究小红书运营/个人IP/知识付费/内容运营/自媒体等领域。\r\n\r\n作者公众号/小红书/即刻：秦细细\r\n\r\n💰 99元购买后可永久阅读，赠送《小红书基础运营手册》资料包（也是自己写的）。\r\n\r\n- -\r\n\r\n👉 我的主专栏：移步《细细の成长花园》xiaobot.net",
+                            "favicon": "https://static.xiaobot.net/paper/2023-08-06/7532/7291f68131eff1580a247683d7421e08.jpeg"
+                        },
+                        {
+                            "id": 27,
+                            "name": "老柴的来信",
+                            "url": "https://xiaobot.net/p/stoney/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "微博/小红书：@老柴\r\n公众号：练习册\r\n超过20年的内容创作者\r\n女性户外品牌「岳下」创始人\r\n连续创业者\r\n前上市公司营销副总裁\r\n退休国家三级登山运动员\r\n\r\n成年人要有意识地培育自己。无论是浅层次的知识上，技能上，还是深层次的人格上，理念上，以及“如何自我培育”这一算法上。Feed yourself. 每天读的书，见的人，看的电影和新闻，做的运动，参加的艺术活动，跟吃饭是一回事。要讲营养搭配。\r\n\r\n「老柴的来信」是我以周为期写给诸位和自己的信，希望在这个尝试下，摄入及输出都更有营养。订阅愉快。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-11-21/103687/fb229d02f39720925df4f0130f5faa1b.jpeg"
+                        },
+                        {
+                            "id": 28,
+                            "name": "你的第一本人际关系指南",
+                            "url": "https://xiaobot.net/p/Relationship/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "在这本书里，\r\n\r\n- 你会看到许多哈佛大学生的案例，在人人都是学霸的环境下，他们如何通过构建人际关系网络，争取各种不可能的机会，让自己脱颖而出；如何平衡好学业压力，同侪竞争，同时又拥有真诚的友谊和support network。\r\n- 你会看到各种有趣的研究，对于“幸福”和“成功”有新的定义。\r\n- 你会收获一些关于人际关系的“硬技能”和干货，运用到工作学习中，收获更有价值的人脉。\r\n\r\n我真心相信，这本小册可以成为你的「人际关系第一课」，给你打开一个全新的，“少有人走”的世界。\r\n\r\n期待和你一起走上这个旅程！",
+                            "favicon": "https://static.xiaobot.net/paper/2023-03-23/35190/f4488b1128edf5864e490247a0a84cde.jpeg"
+                        },
+                        {
+                            "id": 29,
+                            "name": "玉树芝兰",
+                            "url": "https://xiaobot.net/p/yushuzhilan/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "数据科学、知识管理、科研入门等",
+                            "favicon": "https://static.xiaobot.net/paper/2023-02-07/502/6a6c6a03e4f16f4cfdfecc6ea68542e2.jpeg"
+                        },
+                        {
+                            "id": 30,
+                            "name": "阿猫的高效成长课",
+                            "url": "https://xiaobot.net/p/readcat/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "阿猫的高效成长课 | 五大板块\r\n板块一：个人成长——找到适合自己成长的方法\r\n板块二：读书写作——掌握高效成长的底层能力\r\n板块三：财富思维——变成有钱人之前，先看这些\r\n板块四：原生家庭——关于改变，我们一直有选择\r\n板块五：亲密关系——好的关系促进人生发展\r\n\r\n一共更新100篇，5月11日更新完毕\r\n\r\n价格39元，一杯奶茶，（一次订阅，永久有效，无需续费）\r\n** 满2000 人订阅，涨价 。\r\n\r\n购买后加微信onepig04，备注#555，送你价值99元读书群，每天更新一本书。\r\n\r\n作者：公众号阿猫读书创始人，全网70万读者。",
+                            "favicon": "https://static.xiaobot.net/paper/2023-02-20/72922/c1e780cb84705422ac45d76362017dec.png"
+                        },
+                        {
+                            "id": 31,
+                            "name": "你的第一份AIGC精选日刊",
+                            "url": "https://xiaobot.net/p/AIGC2048/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "跟上AIGC最新动态，看这一本日刊就够了！\r\n\r\n每个工作日更新，还原传统纸媒极致阅读体验！本刊于2023年8月31日正式完结，感谢支持！",
+                            "favicon": "https://static.xiaobot.net/paper/2023-03-29/69891/7ded7e1c13b5d8b93187a9e3573c582c.png"
+                        },
+                        {
+                            "id": 32,
+                            "name": "不是办法",
+                            "url": "https://xiaobot.net/p/notworking/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "你好呀，如果你也底层乐观，相信虽然也许没有正确答案，但是在某些瞬间，可以非常接近，那我想，也许你会喜欢读我写的东西。\r\n\r\n这是我的周记本，也是我希望完成对你有价值和美的输出的管道。我想进行有尊严的写作，也相信你值得有尊严的阅读时间。\r\n\r\n谢谢你来，让我们尽快开始这段关系吧。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-12-31/147626/fe4547f617073a94d60490e5af0dfb0f.jpeg"
+                        },
+                        {
+                            "id": 33,
+                            "name": "设计好运：从不确定性中获益",
+                            "url": "https://xiaobot.net/p/Luck/?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "霉运的人，喝凉水也塞牙；\r\n好运的人，走马路也捡钱。\r\n\r\n未来半年，欢迎你加入我们，一起学习如何通过科学的、工程的方法，成为更好运的人。\r\n\r\n放心，不是让你站在宇宙中心呼唤爱、催眠自己等好运、指着天上掉馅饼。\r\n\r\n而是学习设计行为和环境、扩大选择权，将世界的不确定性转化为成功和快乐。\r\n\r\n作者｜任鑫，连续创业者，Get CEO，前京东O2O副总裁，前今夜酒店特价创始人\r\n\r\n🌟 创始读者专属权益 🔝 详情及领取，见置顶内容\r\n\r\n1. 添加任鑫微信，进专属读者群\r\n2. 成为合伙人推荐本书，有人通过你的分享链接付费，每1人你可得付费金额的50%\r\n3. 10场直播+答疑\r\n4. 签名实体书，出版后每位创始读者可免费获得1本\r\n5. 共读10本好运的书（书单见介绍页）\r\n6. 独家写作资料包，100张好运卡片笔记\r\n\r\n邀请你一同见证本书的诞生——《设计好运：从不确定性中获益》",
+                            "favicon": "https://static.xiaobot.net/paper/2023-02-05/179696/b7afe7355c8329f4bf529b9560b7b02e.png"
+                        },
+                        {
+                            "id": 34,
+                            "name": "你的第一本播客制作指南",
+                            "url": "https://xiaobot.net/p/podcast001?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "hi，我是《末日狂花》、《消费圈内人》和前《温柔一刀》的制作人旺仔珂珂糖。\r\n我对本册子的定位是：最简单、最容易上手、不讲大道理，看完就能自己上手做的播客制作手册。\r\n\r\n- 限时258元（永久买断）\r\n- 满 3000 人涨价至 299 元\r\n\r\n\r\n付费之后，你将获得：\r\n- 20 篇播客制作步骤的详细拆解+播客创作者社群精华系列+主播锦囊系列，保姆级教程帮助你上手播客制作，少走弯路；\r\n- 独家播客创作者社群，可在群内认识其他的播客创作者伙伴；\r\n- 永久买断制，可以随时观看已发布的内容。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-12-17/30378/1c15182b170783938b3cc1706f6ec135.png"
+                        },
+                        {
+                            "id": 35,
+                            "name": "Midjourney进阶创意库｜2023",
+                            "url": "https://xiaobot.net/p/MJ2023?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "一个 AI 绘图武器库，\r\n也是一个图片壁纸库。",
+                            "favicon": "https://static.xiaobot.net/paper/2023-01-31/14/79f8b151b903112edee4b4dbb89eda2f.jpeg"
+                        },
+                        {
+                            "id": 36,
+                            "name": "AI赋能指南（已完结）",
+                            "url": "https://xiaobot.net/p/GrowWithAI?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "赶紧学着用人工智能的利刃为工作全方面赋能吧！购买小册子可享受下列权益\r\n\r\n1、AI赋能手册：\r\n从入门了解到赋能变现手册，切实教你怎么在工作中用好AI！\r\n\r\n2、GPT部署流程：\r\n想把自己的公众号变成聊天机器人吗？跟着操作文档，自己变成技术大拿！\r\n想调用OpenAI提供的GPT接口来自建网站吗？跟着操作文档，建起自己的商业帝国！\r\n\r\n3、AI画图prompt分享：\r\n教你分分钟变身AI画师！\r\n\r\n4.AIGC交流群：\r\n获取行业最新资讯！通往AIGC的路上，你不再是孤身一人！\r\n\r\n现价50元，每满100涨价一次",
+                            "favicon": "https://static.xiaobot.net/paper/2023-02-09/22299/bdf7e290b5b46a24e90ba7ee99d51e57.jpeg"
+                        },
+                        {
+                            "id": 37,
+                            "name": "ChatGPT应用宝典：新手实战指南",
+                            "url": "https://xiaobot.net/p/Chat-GPT?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "ChatGPT工具有遇强则强，遇弱则弱的特点，好的使用方式，能真正激活ChatGPT的价值。所以我希望把我请教各种人学到的有价值的实操技能分享出来，帮助更多人用好ChatGPT，提升生活效能~\r\n这里提供了使用ChatGPT解决各种实际问题的具体的、有循序渐进的分步指导，并提供了可视化的清晰解释，用“所见即所得”的方式帮助读者将这些技术应用到自己的工作生活中。\r\n\r\n说明：\r\n1、所见即所得，保姆级实操案例；\r\n2、已有内容随着经验丰富，会优化更新；",
+                            "favicon": "https://static.xiaobot.net/paper/2023-02-16/8398/e4e75f3da341393a4a9233fc7e1a3217.jpeg"
+                        },
+                        {
+                            "id": 38,
+                            "name": "AI项目商业解析",
+                            "url": "https://xiaobot.net/p/aiyanjiu?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "1、AI改变世界，让我们一起入场AI\r\n国外的AI应用层项目已经看到近千款，有文本（辅助写作、营销文案、品牌介绍文案）、图片（头像、商务图像、人像精修）、音频（催眠类的、播客）、视频（AI视频）等等。\r\n国内AI应用层项目很少，所以我会挑出来体验过的AI商业项目写总结、分析到本专栏。\r\n如果你对AI商业变现项目感兴趣，需要持续有案例、思路启发可以订阅；\r\n\r\n2、另外我会以周纬度总结国内利用AI赚钱的水下生意，比如微信内的ChatGPT、Y色、付费培训等一些列的水下案例；\r\n\r\n3、社群价值：\r\n1）目前专栏已经接近4000订阅，微信添加已经超过5000。如果群友出来ai产品可以找我免费朋友圈、即刻等广播、推广（最少能覆盖1000人以上）。\r\n当然对品质有要求，如果没啥新意或者品质很差就不要找我，肯定会拒绝。\r\n2）除了直接推广产品的需求外，众多群友有业务需求想要找ai技术团队实施。这类需求也可以找我，我会在朋友圈、即刻等广播，帮你找到承接方。\r\n当然如果你想获得订单、商务合作，加我后可以详细介绍下业务，如果有需求我也会直接帮你拉群对接；\r\n3）还有诸如业务组队、招聘等等各类需求也都ok，但是我肯定会挑，推广我也不收钱拒绝了您也别挑理；\r\n4）如果你产出了好的内容想要更多人关注、订阅的，也欢迎找我推荐；\r\n5）最最重要的是：大家如果有ai商业idea都欢迎找我交流，我已经过了上千款ai项目、5000多人添加600多人交流过类似逻辑，如果你缺乏变现经验我可以帮助你有效提升变现效率。如果你还在idea阶段我可以快速帮你过一遍逻辑误区或者给你拉群找到有类似idea的人深度交流；\r\n\r\n4、购买完专栏一定要加我微信：henuwang，我会拉你入社群；\r\n\r\n5、随着项目分析案例越来越多，每增加一个案例增加1元，如果不满意随时可申请退原款（还是希望大家多交流，付费是筛选交流意愿的方式）；\r\n\r\n个人背景：持续创业者，互联网最早做过语音助手、SaaS、短视频等，后创业做增长服务、web3等，目前ALL in AI，十分相信AI是未来多年最重要的机会，AI会改变世界。",
+                            "favicon": "https://static.xiaobot.net/paper/2023-02-02/910/22380333939d26c59874ac499b90e119.jpeg"
+                        },
+                        {
+                            "id": 39,
+                            "name": "心态大师 1.0【完结啦，来读我】",
+                            "url": "https://xiaobot.net/p/mindset?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "想到「心态」作为新年小册的主题，是因为我向来觉得心态好是自己的优点，然而在起伏不断的2022年中，我也数度经历过“心态崩了”的时刻。\r\n\r\n哪怕是我自己写下的故事和道理，我自己也会在一些焦虑的当下忘记，自己也做不到。\r\n\r\n我也需要不断回看，不断提醒自己已经走过的路，才能更稳定，松弛，有自信地向前。\r\n\r\n这本小册包含五个小主题：\r\n* 和自己对话\r\n* 面对不确定性\r\n* 职场升级心法\r\n* 低谷期的锦囊\r\n* 健康的身心，好心态的本钱\r\n\r\n我会在整个1月份更新，每日一篇，和大家一起开启2023。\r\n\r\n愿我们都可以调整心态，重新出发！🌱",
+                            "favicon": "https://static.xiaobot.net/paper/2022-12-31/35190/bea9b73a66eb85c8fbf6f436ff7e2903.jpeg"
+                        },
+                        {
+                            "id": 40,
+                            "name": "暴力引流108招",
+                            "url": "https://xiaobot.net/p/mysw001?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "有好项目却找不到意向客户，只能看着别人赚钱？\r\n平台引流总是违规，账号老被封？\r\n\r\n《暴力引流108招》：108个最新最有效的，0基础小白都能学会的引流获客秘籍，帮你掌握流量密码，实现简单粗暴每日引流100+，疯狂收钱。\r\n\r\n限时88元买断（永久有效）\r\n满800人，涨价至99\r\n\r\n我是摸鱼掌柜，原上市公司运营负责人，6年互联网一线实操经验，积累100万+粉丝，私域10万+，擅长内容营销，精通主流平台引流。\r\n\r\n流量聚集之地，金钱必将跟随。\r\n\r\n专栏买断价格是一顿饭，都是交个朋友。\r\n\r\n108个引流方法更完为止。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-12-12/57139/d0abd5974d39e6c8837ab8e2c364da24.jpeg"
+                        },
+                        {
+                            "id": 41,
+                            "name": "惊奇短信",
+                            "url": "https://xiaobot.net/p/LonelyReader?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "我叫葛旭，谷歌一搜全是黑历史。创了个没人看好的业：普及人文博雅与公民意识。行走江湖十几年总结了些个人的「第一性原理」。然而所有抽象事物都只适合私人存储，若传递价值则需重新具象。该专栏便将抽象原理用具象的、诗意的、剽悍的、匪气的语言重新「湿化」以妄图让人称奇，史称「惊奇短信」。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-06-08/44557/2a640ccdbdfc6c2ed48e56379c2f8450.png"
+                        },
+                        {
+                            "id": 42,
+                            "name": "史官的游戏研发入门培训手册",
+                            "url": "https://xiaobot.net/p/sg2201?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "微博：寝取的史官，从业15年的资深游戏开发者，创业10年的某地下游戏加工窝点联合创始人。\r\n先后从事过前台，项目助理，游戏策划，运营，商务等各类岗位。参与过端游，页游，主机，街机，手游等各类游戏项目。\r\n项目经验涵盖了角色扮演，射击，赛车，体育，军事，魔幻，科幻等各种品类。\r\n本专栏着重为刚入行和希望入行的新人提供一些设计思路和开发经验。\r\n每周至少会更新一篇1500字左右文章，目前专栏文章数尚未有上限规划。\r\n关于专栏文章题材可在本专栏留言，或在寝取的史官微博置顶处留言。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-12-06/114206/e518b408eec09c4dac115b7787afa6a3.png"
+                        },
+                        {
+                            "id": 43,
+                            "name": "生财有术项目精选",
+                            "url": "https://xiaobot.net/p/shengcaiyoushu?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "66个赚到钱的人，分享他们已经跑通的项目。\r\n\r\n【重要】添加服务官鱼丸微信(yuwan831)，领取配套的10张项目步骤拆解图；\r\n\r\n【阅读建议】先看拆解图，定位自己擅长的领域，便于找到更适合自己的项目。\r\n\r\n更多权益和规则，请看置顶帖。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-11-22/11873/cd3e807a29b791027131bd0ed1783bce.png"
+                        },
+                        {
+                            "id": 44,
+                            "name": "产品沉思录 | 第六季（完结）",
+                            "url": "https://xiaobot.net/p/pmthinking2022?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "产品沉思录™ 是一个关于产品的知识库，也是一个 Newsletter （邮件组），始于 2017 年，累计发布近 200+ 期，涵盖几十个人物/产品/公司专题研究，累计近百万字内容。\r\n\r\n除了点击下方「介绍」外，你还可以浏览\r\n- 免费精选集：pmthinking.com\r\n- 本年度目录：xiaobot.net\r\n\r\n本年度内容已经连载完毕，如需最近一季内容，请移步：xiaobot.net\r\n\r\n人们会被自己热爱的事物改变，而没有人因为给予而贫穷。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-12-31/5/76e64a7a4daa5b97e5643aef08e7e35f.jpeg"
+                        },
+                        {
+                            "id": 45,
+                            "name": "运营新人的自我修养",
+                            "url": "https://xiaobot.net/p/Operation01?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "我希望能够用我9年的运营经验，来解决运营新人在职业生涯前期的因为对运营认知、对运营专业知识的理论缺失带来的各种问题。\r\n\r\n我为什么要写《运营新人的自我修养》：mtw.so\r\n碧落的个人说明书：mtw.so",
+                            "favicon": "https://static.xiaobot.net/paper/2022-11-22/5589/d0823f271a72f3899117fdc889bde19e.png"
+                        },
+                        {
+                            "id": 46,
+                            "name": "看本质：热点话题100问系列【B端完结】",
+                            "url": "https://xiaobot.net/p/work-001?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "“花半秒钟就看透事物本质的人，和花一辈子都看不清事物本质的人，注定有截然不同的命运。”\r\n大家好，我是穆宁。我会用10个话题讲述100个思维模型，帮助大家掌握用上帝视角看世界的方法。\r\n内容话题涉及职场、沟通、心理学等领域，帮助你更好的与这个世界对话。\r\n用可视化思维的方式去学习，使我受益匪浅。我希望将这种价值，传递给更多人。\r\n目前定价119.9元/终身，早买早赚到。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-11-23/5745/979624b4decce7fa54b1d45da7961f6e.jpeg"
+                        },
+                        {
+                            "id": 47,
+                            "name": "游火研究院 2023",
+                            "url": "https://xiaobot.net/p/yoho?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "本专栏已更新完全部内容，请付费会员点击置顶帖获取200余页、10万余字的2023小结。\r\n\r\n订阅2024年专栏请移步：xiaobot.net\r\n\r\n游火研究院创始人 齐城：orangeqi.com",
+                            "favicon": "https://static.xiaobot.net/paper/2022-07-15/14173/2df4a83d05921e5ec888b6b2abbec4f9.png"
+                        },
+                        {
+                            "id": 48,
+                            "name": "满地找钱",
+                            "url": "https://xiaobot.net/p/diceoptimist?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "25岁早早靠自己存下了人生中的首个100w，希望订阅专栏的你也能收下这份好运\r\n\r\n你是否想提高财商，从副业中赚来一些偏财？\r\n\r\n你是否想做个人IP，把自己的影响力作为变现杠杆？\r\n\r\n你是否想通过了解职场生存技巧，来提高主业吸金的能力？\r\n\r\n你是否想了解各种薅羊毛小技巧，做好开源节流的重要一环？\r\n\r\n希望能够和你一起抱团学习，早日赚到人生中的首个100w和更多更多个100w！",
+                            "favicon": "https://static.xiaobot.net/paper/2022-05-17/22299/7d090898fd911b535032b0f627fa359b.jpeg"
+                        },
+                        {
+                            "id": 49,
+                            "name": "品牌咖啡因",
+                            "url": "https://xiaobot.net/p/Brandaffeine?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "你好，我是塞米，欢迎订阅我的付费频道“品牌咖啡因”！\r\n\r\n① 我专注小众品牌的经营理论，一个70多万粉丝的公众号“塞米的小趋势研究室”，一本书《越自我，越成功：小众品牌生存指南》，主营小众品牌咨询和顾问服务\r\n② “品牌咖啡因”覆盖小众品牌经营的全维度知识，偏策略，周一到周三晚上10点半更新\r\n③ 阅读前推荐先做两件事：\r\nⅰ.查看置顶文章《小众品牌生存策略脱水手册》（代专栏目录）\r\nⅱ.点击下方“排序与视图”按钮，可切换到阅读友好的列表模式。◢",
+                            "favicon": "https://static.xiaobot.net/paper/2022-05-12/36572/d4ef008c773f61f7eb3145cbed6cff16.webp"
+                        },
+                        {
+                            "id": 50,
+                            "name": "朝花夕拾录",
+                            "url": "https://xiaobot.net/p/theoldnotes?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "这里是有「历史感」的我过去文章的合辑，加上我再回顾时的点评。\r\n\r\n在互联网大幕已经落下时，我惊觉它们如今的价值，已并非是揭示真理，反而很好地记录了历史、刻画了当时当境下我们对产品的观察和思考。这种有「历史感」的启发，也许会很有意思。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-07-16/14/ddc07c84d808010dd63e49ecb335a02b.png"
+                        },
+                        {
+                            "id": 51,
+                            "name": "产品面试题解析",
+                            "url": "https://xiaobot.net/p/community?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "别人面试对答如流，你哆哆嗦嗦说不上来，看看这里吧！\r\n\r\n作为资深产品经理、面试官，Super对产品面试题简洁易懂、直戳关键的解析，获得了大量PM的认可。\r\n\r\n当前承诺更100篇！！\r\n\r\n同时赠送专属微信社群+一份阅读材料（见置顶帖）\r\n\r\n当前价格99元。\r\n\r\n付费=永久买断！更多权益和规则请看置顶帖！",
+                            "favicon": "https://static.xiaobot.net/paper/2022-09-13/7/66ed33a23e1338b9930fbfad50bc2e4e.jpeg"
+                        },
+                        {
+                            "id": 52,
+                            "name": "Abby与你共成长",
+                            "url": "https://xiaobot.net/p/abby?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "个人成长沉思录，Abby的后花园\r\n持续更新小三年，230+篇，近50万字，188元/终身\r\n\r\n作为FIRE生活践行者关于自由职业和生活方式的思考\r\n作为产品商业化负责人关于职场和产品的思考\r\n作为企业独立顾问关于商业化的思考\r\n作为咨询师关于人的思考\r\n\r\n人们更愿意信任一个人而非公司，因为人能有真实的交互感。\r\n我手写我心，期望能与大家建立更深的链接。\r\n\r\n23年Abby走向自由职业探索，几乎不再宣传专栏，时不时仍有读者购买，感谢你们的信任，也感谢缘分～\r\n\r\n具体请看专栏介绍及置顶的专栏目录",
+                            "favicon": "https://static.xiaobot.net/paper/2024-01-05/7703/5239d7b88924ff77f6838a5074dfa812.jpeg"
+                        },
+                        {
+                            "id": 53,
+                            "name": "我与我周旋久【日更完结版】",
+                            "url": "https://xiaobot.net/p/pmmien?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "👩‍💻关于我：INTP，预上市公司线上产品及市场负责人。关心世界运转的规律和个人幸福的方法。\r\n\r\n📒专栏定位：个人思考学习录，内容包括不限于个人成长、认知科学、心理学、哲学、儒释道等。\r\n\r\n✍️目前已完成一整年365天日更。由内容整理而成的知识库随后奉上。\r\n\r\n📚欢迎关注我正在更新中的专栏「我与我周旋久2023」：xiaobot.net",
+                            "favicon": "https://static.xiaobot.net/paper/2022-11-23/4024/3c1e3a4a10c88f439ec9d7cf9304ed65.jpeg"
+                        },
+                        {
+                            "id": 54,
+                            "name": "HowCurious Ⅰ",
+                            "url": "https://xiaobot.net/p/howcurious?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "凯文 · 凯利：防止变老的主要方法是保持惊奇。\r\n\r\nHowCurious Ⅱ → xiaobot.net",
+                            "favicon": "https://static.xiaobot.net/paper/2022-04-29/417/c882ccb0f872313d849e2f4d23eef7f7.jpeg"
+                        },
+                        {
+                            "id": 55,
+                            "name": "如何提升结构化表达能力",
+                            "url": "https://xiaobot.net/p/jghbd?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "🤓作者曹将，《高效学习：曹将的公开课》《PPT炼成记》作者。\r\n🚀 一共30个真实案例，解读常见的结构化表达。\r\n👔适合工作五年内的职场人购买。\r\n💰更新满30个后涨价。一次付费，永久阅读。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-06-27/3755/0983fc129b0650bbbf24576077b762bd.jpeg"
+                        },
+                        {
+                            "id": 56,
+                            "name": "简历的故事",
+                            "url": "https://xiaobot.net/p/Peter1981_HR?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "分享简历与面试背后的故事\r\n个人微信：Peter1981_HR",
+                            "favicon": "https://static.xiaobot.net/paper/2021-12-24/5116/2a1948c91fff10458c6dcedbffc9d7cb.jpeg"
+                        },
+                        {
+                            "id": 57,
+                            "name": "任鑫每日笔记（2024年12月完结）",
+                            "url": "https://xiaobot.net/p/ideas?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "2024 年，用小报童记录自己的笔记。\r\n\r\n应该绝大部分内容会和 AI 相关。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-03-27/1660/2f4024fd779e15be640c14d743c45a0a.jpeg"
+                        },
+                        {
+                            "id": 58,
+                            "name": "亮总记事本",
+                            "url": "https://xiaobot.net/p/xuyuanpu?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d",
+                            "desc": "10+年新媒体营老人家，有赞/小鹅通首批案例操盘手；\r\n\r\n做了几个千万级项目，正在服务一个过亿培训项目；\r\n\r\n为电商/DTC/教培/大健康公司提供私域和用户运营解决方案。\r\n\r\n记录运营总监该有的思考，用尽一切信息做对的选择。\r\n\r\n专写公私域/抖音/运营/成长/职场等杂七杂八的事情。\r\n\r\n已经记录超过30w+字，很多读者在小报童阅读的第一个运营专栏。\r\n\r\n季度价格就是“半顿饭钱”，交个朋友。\r\n\r\n对了，大概每周3篇，周末休息不发文。",
+                            "favicon": "https://static.xiaobot.net/paper/2022-01-11/6854/8241d38777d11e449b13d5a80b3e9321.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

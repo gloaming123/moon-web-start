@@ -59,6 +59,7 @@ onMounted(() => {
     height: 100%;
   }
   img {
+    border-radius: 50px;
     object-fit: contain;
     object-position: center;
   }

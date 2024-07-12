@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import draggable from 'vuedraggable'
 import SiteItemCard from './SiteItemCard.vue'
-import type { Group, Site, TagMode } from '@/types'
+import type { Site, TagMode } from '@/types'
 
 const modalStore = useModalStore()
 const siteStore = useSiteStore()
@@ -44,7 +44,7 @@ const linkStrategyValue = computed(() => settingStore.getSettingItem('linkStrate
       @start="handleStart"
       @end="handleEnd"
     >
-      <template #item="{ element: group, index: i }: { element: Group, index: number }">
+      <template #item="{ index: i }: { index: number }">
         <div :class="{ 'mb-6': settingStore.isSetting, 'flex gap-x-8 items-start': !(isXsScreen || isFullTagMode) }" relative>
           <!-- Group header -->
           <div
@@ -60,12 +60,12 @@ const linkStrategyValue = computed(() => settingStore.getSettingItem('linkStrate
               }"
               flex items-center justify-between px-6 h-40
             >
-              <div
+              <!-- <div
                 :class="{ 'group__name pl-16 py-4': isXsScreen || isFullTagMode }"
                 whitespace-nowrap text-15 op-80 overflow-hidden
               >
                 {{ group.name }}
-              </div>
+              </div> -->
               <n-button
                 v-if="settingStore.isSetting && (isXsScreen || isFullTagMode)"
                 class="btn--add-site" type="primary" circle :focusable="false" @click.stop="modalStore.showModal('add', 'site', i)"
@@ -88,8 +88,8 @@ const linkStrategyValue = computed(() => settingStore.getSettingItem('linkStrate
                 tag: 'div',
                 type: 'transition-group',
                 class: !isFullTagMode
-                  ? 'grid gap-10 grid-cols-3 md:grid-cols-4 lg:grid-cols-6'
-                  : 'grid gap-12 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4',
+                  ? 'grid gap-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
+                  : 'grid gap-12 grid-cols-1 sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3',
               }"
               v-bind="draggableOptions"
               @start="handleStart"

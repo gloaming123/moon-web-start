@@ -55,7 +55,7 @@ function handleDragEnd(e: any) {
     >
       <template #item="{ element: cate, index: i }: { element: Category, index: number }">
         <div
-          class="dragging nav__item shrink-0"
+          class="dragging nav__item common-title shrink-0"
           :class="{
             'hover:text-$primary-c': !settingStore.isSetting,
             'nav__item--active': siteStore.cateIndex === i,
@@ -84,6 +84,10 @@ function handleDragEnd(e: any) {
 </template>
 
 <style lang="scss" scoped>
+.common-title {
+  font-size: 20px;
+  font-weight: 700;
+}
 .nav {
   overflow-x: scroll;
   -webkit-overflow-scrolling: touch;

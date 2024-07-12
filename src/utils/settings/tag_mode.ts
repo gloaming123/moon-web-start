@@ -10,5 +10,5 @@ export const tagMode = new SettingItem({
   name: () => t('settings.tagMode.title'),
   key: 'TagType',
   children: tagModeList,
-  defaultKey: 'Concise',
+  defaultKey: 'Full',
 })
