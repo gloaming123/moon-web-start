@@ -1,5 +1,21 @@
 import fs from 'node:fs'
 
+// function imageToBase64(url, callback) {
+//   var img = new Image();
+//   img.crossOrigin  = 'Anonymous'; // 处理跨域问题
+//   img.src  = url;
+//   img.onload  = function() {
+//           var reader = new FileReader();
+//           reader.onloadend  = function() {
+//               callback(reader.result );
+//           };
+//           reader.readAsDataURL (img);
+//   };
+//   img.onerror  = function() {
+//           callback(null);
+//   };
+// }
+
 // 创建一个可写流
 const logStream = fs.createWriteStream('output.log', { flags: 'a' })
 const arr = [
@@ -468,14 +484,14 @@ arr.forEach((item, index) => {
     url: `${item.url}?refer=1fa1da45-327e-4651-b13c-c73d21cc297f`,
     // url: `${item.url}?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d`,
     desc: item.introduction,
-    favicon: item.avatarUrl,
+    favicon: `/img/${item.avatarUrl.split('/')[item.avatarUrl.split('/').length - 1]}`,
   })
 })
 const arr2 = {
   data: [
     {
       id: 0,
-      name: '日常',
+      name: '小报童每日精选',
       groupList: [
         {
           id: 1,
