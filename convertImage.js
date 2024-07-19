@@ -1,12 +1,7 @@
-// const fs = require('fs');
 import fs from 'node:fs'
-
-// const path = require('path');
 import path from 'node:path'
 import { promisify } from 'node:util'
 
-// const buffer = require('buffer');
-// import fs from 'node:util'
 const stat = promisify(fs.stat)
 
 const arr = []
@@ -50,3 +45,5 @@ async function convertImagesToBase64(inputDir, outputDir) {
 const inputDir = 'd:/moon-web-start/public/img'
 const outputDir = 'd:/moon-web-start/output'
 convertImagesToBase64(inputDir, outputDir)
+
+// 可优化一下变为输出一个arr直接放到dispose.js中使用
