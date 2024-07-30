@@ -43,5 +43,11 @@ export default function(base64String, index) {
   const filePath = path.join(outputDir, filename);
 
   // 将Buffer写入文件
-  fs.writeFile(filePath, buffer);
+  fs.writeFile(filePath, buffer, (err) => {
+    if (err) {
+      console.error('保存图片失败:', err);
+    } else {
+      console.log(`图片已保存为：${filePath}`);
+    }
+  });
 }
