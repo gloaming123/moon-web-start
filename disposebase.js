@@ -1,6 +1,8 @@
 import fs from 'node:fs'
+import dotenv from 'dotenv'
 import saveBase64Image from './convertBase64ToImage.js'
 
+dotenv.config()
 // 读取后端爬取的数据
 const data = fs.readFileSync ('./detail.json', 'utf8')
 const arr = JSON.parse(data)
@@ -18,7 +20,7 @@ arr.forEach((item, index) => {
     id: index + 2,
     name: item.title,
     // 个人分销码粘贴替换在此处
-    url: `${item.url}?refer=1fa1da45-327e-4651-b13c-c73d21cc297f`,
+    url: `${item.url}?refer=${process.env.REFER_CODE}`,
     // url: `${item.url}?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d`,
     desc: item.introduction,
     favicon: `/imgNew/image_${index}.jpg`,
