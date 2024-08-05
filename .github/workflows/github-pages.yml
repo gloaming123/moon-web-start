@@ -75,7 +75,7 @@ jobs:
 
       - name: Run dispose base
         env:
-          REFER_CODE: ${{ secret.REFER_CODE }}
+          REFER_CODE: ${{ secrets.REFER_CODE }}
         run: node disposebase.js
 
       - name: Setup Pages
