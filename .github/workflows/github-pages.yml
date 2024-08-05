@@ -54,7 +54,7 @@ jobs:
           cd xiaobot-spider
           mvn clean package  # 或者使用 `mvn package`，具体取决于你的项目
           java -jar target/xiaobot-spider-1.0-SNAPSHOT-jar-with-dependencies.jar  # 运行你的主方法，生成 detail.json
-          mv target/detail.json ../detail.json 
+          # mv target/detail.json ../detail.json 
 
       - name: Copy detail.json to Vue project
         run: |
