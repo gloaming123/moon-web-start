@@ -59,7 +59,7 @@ jobs:
       - name: Copy detail.json to Vue project
         run: |
           rm -f ./detail.json #删掉当前的，重新生成一个
-          cp xiaobot-spider/detail.json ./detail.json
+          cp target/detail.json ./detail.json
 
       #setup pnpm
       - run: pnpm install
