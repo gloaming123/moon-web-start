@@ -58,8 +58,9 @@ jobs:
 
       - name: Copy detail.json to Vue project
         run: |
+          pwd
           rm -f ./detail.json #删掉当前的，重新生成一个
-          cp target/detail.json ./detail.json
+          cp /tmp/detail.json ./detail.json
 
       #setup pnpm
       - run: pnpm install
