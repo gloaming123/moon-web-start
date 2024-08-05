@@ -31,14 +31,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - uses: pnpm/action-setup@v2
+      - uses: npm/action-setup@v2
         with:
           version: 6.32.9
       - name: Set up Node
         uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: pnpm
+          cache: npm
       #java
       - name: Checkout Java project
         run: git clone https://github.com/thend03/xiaobot-spider.git
@@ -62,14 +62,14 @@ jobs:
           rm -f ./detail.json #删掉当前的，重新生成一个
           cp /tmp/detail.json ./detail.json
 
-      #setup pnpm
-      - run: pnpm install
+      #setup npm
+      - run: npm install
       - name: Build
         env:
           # 设置环境变量,pages自定义域名了，显式设置为空
           #REPOSITORY: ${{ github.repository }}
           REPOSITORY: ""
-        run: pnpm build
+        run: npm build
 
 
       - name: Run dispose base
