@@ -1,3 +1,4 @@
+/* eslint-disable */
 import fs from 'node:fs'
 import dotenv from 'dotenv'
 import saveBase64Image from './convertBase64ToImage.js'
@@ -7,10 +8,17 @@ dotenv.config()
 const data = fs.readFileSync ('./detail.json', 'utf8')
 const arr = JSON.parse(data)
 
-console.log('refer_code: ',process.env.REFER_CODE)
+if (!fs.existsSync ('./src/preset.json')) {
+  console.log ('文件不存在');
+  } else {
+  fs.unlink ('./src/preset.json', (err) => {
+  if (err) throw err;
+  console.log ('文件已删除');
+  });
+}
 
 // 创建一个可写流
-const logStream = fs.createWriteStream('./src/preset.json', { flags: 'w' })
+const logStream = fs.createWriteStream('./src/preset.json', { flags: 'a' })
 
 const arr1 = []
 
