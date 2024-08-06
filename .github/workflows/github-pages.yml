@@ -72,6 +72,8 @@ jobs:
         run: npm run build
 
 
+      - name: Debug environment variables
+        run: echo ${{ secrets.REFER_CODE }}
       - name: Run dispose base
         env:
           REFER_CODE: ${{ secrets.REFER_CODE }}
