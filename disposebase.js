@@ -7,6 +7,8 @@ dotenv.config()
 const data = fs.readFileSync ('./detail.json', 'utf8')
 const arr = JSON.parse(data)
 
+console.log('refer_code: ',process.env.REFER_CODE)
+
 // 创建一个可写流
 const logStream = fs.createWriteStream('./src/preset.json', { flags: 'w' })
 

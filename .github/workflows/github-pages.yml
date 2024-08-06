@@ -40,8 +40,6 @@ jobs:
           node-version: 18
           cache: npm
 
-      - name: Debug environment variables
-        run: echo "REFER_CODE is ${{ secrets.REFER_CODE }}"
       #java
       - name: Checkout Java project
         run: git clone https://github.com/thend03/xiaobot-spider.git
