@@ -75,6 +75,8 @@ jobs:
       - name: Run dispose base
         run: |
           echo "REFER_CODE=${{ secrets.REFER_CODE }}" > .env
+          echo "print env"
+          cat .env
           node disposebase.js
 
       - name: Setup Pages
