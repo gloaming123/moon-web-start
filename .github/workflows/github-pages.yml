@@ -63,10 +63,7 @@ jobs:
           rm -f ./detail.json #删掉当前的，重新生成一个
           cp /tmp/detail.json ./detail.json
 
-      - name: Run dispose base
-        env:
-          REFER_CODE: ${{ secrets.REFER_CODE }}
-        run: node disposebase.js
+
 
       #setup npm
       - run: npm install
@@ -76,6 +73,11 @@ jobs:
           #REPOSITORY: ${{ github.repository }}
           REPOSITORY: ""
         run: npm run build
+
+      - name: Run dispose base
+        env:
+          REFER_CODE: ${{ secrets.REFER_CODE }}
+        run: node disposebase.js
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
