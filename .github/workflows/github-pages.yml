@@ -4,7 +4,7 @@ name: Deploy moon-web-start with GitHub Pages dependencies preinstalled
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: [ master ]
+    branches: [master]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -37,10 +37,10 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 20
           cache: npm
 
-      #java
+      # java
       - name: Checkout Java project
         run: git clone https://github.com/thend03/xiaobot-spider.git
 
@@ -48,14 +48,14 @@ jobs:
         uses: actions/setup-java@v2
         with:
           java-version: '11'
-          distribution: 'zulu'
+          distribution: zulu
 
       - name: Build and run xiaobot-spider
         run: |
           cd xiaobot-spider
           mvn clean package  # 或者使用 `mvn package`，具体取决于你的项目
           java -jar target/xiaobot-spider-1.0-SNAPSHOT-jar-with-dependencies.jar  # 运行你的主方法，生成 detail.json
-          # mv target/detail.json ../detail.json 
+          # mv target/detail.json ../detail.json
 
       - name: Copy detail.json to Vue project
         run: |
@@ -63,15 +63,13 @@ jobs:
           rm -f ./detail.json #删掉当前的，重新生成一个
           cp /tmp/detail.json ./detail.json
 
-
-
-      #setup npm
+      # setup npm
       - run: npm install
       - name: Build
         env:
           # 设置环境变量,pages自定义域名了，显式设置为空
-          #REPOSITORY: ${{ github.repository }}
-          REPOSITORY: ""
+          # REPOSITORY: ${{ github.repository }}
+          REPOSITORY: ''
         run: npm run build
 
       - name: Run dispose base
