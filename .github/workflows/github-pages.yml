@@ -78,6 +78,8 @@ jobs:
           echo "print env"
           cat .env
           node disposebase.js
+          echo "print preset.json"
+          cat src/preset.json
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
