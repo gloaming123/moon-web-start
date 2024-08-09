@@ -711,8 +711,8 @@ arr.forEach((item, index) => {
   arr1.push({
     id: index + 2,
     name: item.title,
-    url: `${item.url}?refer=1fa1da45-327e-4651-b13c-c73d21cc297f`,
-    // url: `${item.url}?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d`,
+    // url: `${item.url}?refer=1fa1da45-327e-4651-b13c-c73d21cc297f`,
+    url: `${item.url}?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d`,
     desc: item.introduction,
     favicon: `/img/${item.avatarUrl.split('/')[item.avatarUrl.split('/').length - 1]}`,
     // favicon: arrImage.filter(item1 => item.avatarUrl.lastIndexOf(item1.name) !== -1)[0] ? arrImage.filter(item1 => item.avatarUrl.lastIndexOf(item1.name) !== -1)[0].url : '',
