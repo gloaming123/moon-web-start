@@ -39,6 +39,8 @@ arr.forEach((item, index) => {
     // url: `${item.url}?refer=fa4b95f2-5377-4703-b4d3-95b0951a272d`,
     desc: item.introduction,
     favicon: `/imgNew/image_${index}.jpg`,
+    postCount: item.postCount,
+    subscriberCount: item.subscriberCount,
   })
 })
 const arr2 = {
