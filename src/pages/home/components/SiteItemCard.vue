@@ -28,28 +28,29 @@ defineProps({
 </script>
 
 <template>
-  <a
-    v-if="type === 'Concise'"
-    class="site__handle"
-    :class="{ 'site--setting': isSetting, 'hover:bg-$site-hover-c': !isDragging }"
-    :href="site.url" :target="target"
-    inline-flex cursor-pointer items-center gap-x-8 px-12 transition-300 h-40 max-w-100p
-  >
+  <a v-if="type === 'Concise'" class="site__handle"
+    :class="{ 'site--setting': isSetting, 'hover:bg-$site-hover-c': !isDragging }" :href="site.url" :target="target"
+    inline-flex cursor-pointer items-center gap-x-8 px-12 transition-300 h-40 max-w-100p>
     <Favicon class="shrink-0" :site="site" />
     <span whitespace-nowrap text-14 overflow-hidden>{{ site.name }}</span>
   </a>
-  <a
-    v-else
-    class="site__handle site__itemborder"
-    :class="{ 'site--setting': isSetting, 'hover:bg-$site-hover-c': !isDragging }"
-    :href="site.url" :target="target"
-    bg="white dark:dark-800"
-    w-full inline-flex cursor-pointer items-center gap-x-8 transition-300 p-10
-  >
+  <a v-else class="site__handle site__itemborder"
+    :class="{ 'site--setting': isSetting, 'hover:bg-$site-hover-c': !isDragging }" :href="site.url" :target="target"
+    bg="white dark:dark-800" w-full inline-flex cursor-pointer items-center gap-x-8 transition-300 p-10>
     <Favicon class="shrink-0" :site="site" :size="100" round />
     <div>
       <div class="nameClass" text-16 font-600 ellipsis-1>{{ site.name }}</div>
       <div class="nameClass" text="14 $text-c-1" mt-6 ellipsis-4>{{ site.desc ?? site.name }}</div>
+      <div class="flex items-center ">
+        <div class="flex flex-col items-center ml-5">
+          <div class="font-semibold">{{ site.postCount }}</div>
+          <div class="text-muted-foreground">读者</div>
+        </div>
+        <div class="flex flex-col items-center ml-5">
+          <div class="font-semibold">{{ site.subscriberCount }}</div>
+          <div class="text-muted-foreground">内容</div>
+        </div>
+      </div>
     </div>
   </a>
 </template>
