@@ -4,6 +4,8 @@ export interface Site {
   url: string
   favicon?: string
   desc?: string
+  postCount?: string
+  subscriberCount?: string
 }
 export interface Group {
   id: number
