@@ -37,10 +37,17 @@ export default function(base64String, index) {
       throw new Error('不支持的图片类型');
   }
 
+  console.log('当前工作目录:', process.cwd());
+
   // 构建文件名和路径
   const outputDir = './public/imgNew'
   const filename = `image_${index}.${extension}`;
   const filePath = path.join(outputDir, filename);
+
+  // 确保目录存在
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
 
   // 将Buffer写入文件
   fs.writeFile(filePath, buffer, (err) => {
