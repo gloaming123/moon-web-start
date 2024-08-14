@@ -71,6 +71,10 @@ jobs:
         run: |
           echo "REFER_CODE=${{ secrets.REFER_CODE }}" > .env
           echo "print env"
+          rm -f CNAME
+          if [ -n "${{ secrets.CNAME }}" ]; then
+            echo "${{ secrets.CNAME }}" > CNAME
+          fi
           cat .env
           node disposebase.js
           echo "print preset.json"
